@@ -4,5 +4,5 @@ This nft collections is dedicated to cat lovers.
 
 
 ######
-Users can one mint one and can choose either white or black!
+Users can only mint once and one of the nfts and can choose either white or black!
 
